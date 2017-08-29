@@ -1,4 +1,7 @@
-# algorithms
-Compilation of Java algorithms
+# Algorithms
+Compilation of basic Java algorithms(just sorts) and a timer used to analyze the efficiency of each implementation.
 
-Need to improve UI using JavaFX
+# Future improvements
+Need to improve UI using JavaFX.
+
+Add search algorithms with comparison (i.e. Dijkstra, A*, BFS, DFS)
